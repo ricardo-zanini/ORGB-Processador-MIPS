@@ -3628,7 +3628,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="dataWidth" val="24"/>
       <a name="contents">addr/data: 4 24
 5210 30 60 3000 480 28000 48 180
-ff8045 4002 13000
+ff8045 4002 13000 20060
 </a>
     </comp>
     <comp lib="2" loc="(870,320)" name="Multiplexer">
@@ -3782,9 +3782,9 @@ ff8045 4002 13000
       <a name="dataWidth" val="4"/>
       <a name="contents">addr/data: 10 4
 1 6 4*0 7 25*0 1 9 30*0
-1 8 446*0 1 2 a 7*0 4
-37*0 1 2 3 4 124*0 1 2
-5
+1 8 158*0 1 b 9*0 4 276*0
+1 2 a 7*0 4 37*0 1 2
+3 4 124*0 1 2 5
 </a>
     </comp>
     <comp lib="0" loc="(890,280)" name="Pin">
