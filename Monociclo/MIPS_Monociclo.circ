@@ -708,7 +708,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="addrWidth" val="24"/>
       <a name="dataWidth" val="32"/>
       <a name="contents">addr/data: 24 32
-0
+8c010000 201009 851820 851822 ac020004
 </a>
     </comp>
     <comp lib="0" loc="(1240,1050)" name="Pin">
@@ -4078,7 +4078,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="addrWidth" val="6"/>
       <a name="dataWidth" val="14"/>
       <a name="contents">addr/data: 6 14
-9*0 2a40 16*0 241 5*0 241 0 241
+9*0 2a41 16*0 241 5*0 241 0 241
 0 241 241 4*0 241
 </a>
     </comp>
